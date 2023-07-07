@@ -3,4 +3,6 @@
     <string name="search_icon">Search Icon</string>
     <string name="search_for_a_phrase">Search for a phrase...</string>
     <string name="no_search_results_found">No search results found</string>
+    <string name="onki">ONKI</string>
+    <string name="icon">Icon</string>
 </resources>
